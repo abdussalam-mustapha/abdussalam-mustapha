@@ -11,11 +11,11 @@
 
 ### Social Media
 
-<p align=”center”>
+<a href=”https://www.linkedin.com/in/abdussalam-mustapha-53a312238/"><img inkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/abdussalam-mustapha/abdussalam-mustapha/main/Images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
-<img width=”200" height=”200" src=”./Images/twitter.png" alt=”my banner”>
 
-</p>
+
+
 
 
 
