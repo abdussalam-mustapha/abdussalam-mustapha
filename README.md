@@ -11,7 +11,11 @@
 
 ### Social Media
 
+<p align=”center”>
 
+<img width=”200" height=”200" src=”./Images/twitter.png" alt=”my banner”>
+
+</p>
 
 
 
