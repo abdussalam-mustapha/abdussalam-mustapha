@@ -27,7 +27,7 @@
 
 
 
-[![facebook](https://github.com/abdussalam-mustapha/abdussalam-mustapha/blob/main/Images/linkedin.png (LinkedIn))][1]
+[![facebook](https://github.com/abdussalam-mustapha/abdussalam-mustapha/blob/main/Images/linkedin.png (LinkedIn))][1]{width: 20px;}
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
