@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdussalam Mustapha</h1>
-<h3 align="center">I am a passionate frontend developer and technical writer from Nigeria</h3>
+<h3 align="center">I am a passionate frontend developer and technical writer from Nigeria😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdussalam-mustapha&label=Profile%20views&color=0e75b6&style=flat" alt="abdussalam-mustapha" /> </p>
 
@@ -28,7 +28,7 @@
 <a href="https://codepen.io/mustysama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mustysama" height="30" width="40" /></a>
 <a href="https://dev.to/abdussalam mustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdussalam mustapha" height="30" width="40" /></a>
 <a href="https://twitter.com/abdussalam mustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdussalam mustapha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdussalam mustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdussalam mustapha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdussalam mustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profiled-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdussalam mustapha" height="30" width="40" /></a>
 <a href="https://fb.com/abdussalam mustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdussalam mustapha" height="30" width="40" /></a>
 <a href="https://hashnode.com/mustysama.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mustysama.hashnode.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@mustaphaabdussalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustaphaabdussalam" height="30" width="40" /></a>
