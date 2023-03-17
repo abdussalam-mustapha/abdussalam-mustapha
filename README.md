@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [mustysama.hashnode.dev](mustysama.hashnode.dev)
 
-- 💬 Ask me about **React, Django, Next.js e.t.c**
+- 💬 Ask me about **React, Next.js, Nodejs, blockchain e.t.c**
 
-- 📫 How to reach me **mustaphaakanbi813@gmail.com**
+- 📫 How to reach me **abdussalammustapha07@gmail.com**
 
 - ⚡ Fun fact **I love football, (mobile games or real world)**
 
