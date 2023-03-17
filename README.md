@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **building my community, network and my tech stacks**
 
-- 🌱 I’m currently learning **Python, Solidity,**
+- 🌱 I’m also interested in **Python, Solidity, e.t.c**
 
 - 📝 I regularly write articles on [mustysama.hashnode.dev](mustysama.hashnode.dev)
 
