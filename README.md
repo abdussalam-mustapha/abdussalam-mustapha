@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdussalam Mustapha</h1>
-<h3 align="center">I am a passionate frontend developer and technical writer from Nigeria😀</h3>
+<h3 align="center">I am a passionate full stack developer and technical writer from Nigeria😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdussalam-mustapha&label=Profile%20views&color=0e75b6&style=flat" alt="abdussalam-mustapha" /> </p>
 
