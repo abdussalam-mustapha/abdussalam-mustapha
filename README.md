@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-I'm a MERN (MongoDB, express, react, and node) and MENN (MongoDB, express, next and node) stack dev
+I'm a MERN (MongoDB, express, react, and node),  MENN (MongoDB, express, next and node) and smart contract dev
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [mavedadev-abdussalam-mustapha.vercel.app](http://mavedadev-abdussalam-mustapha.vercel.app)
